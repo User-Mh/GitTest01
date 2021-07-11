@@ -10,7 +10,7 @@
   <name>ProjectTest01 Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
-<!--sfsdfasfd三二一提前测试-->
+<!--sfsdfasfd三二一提问问前测试-->
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
